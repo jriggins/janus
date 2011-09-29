@@ -159,6 +159,7 @@ vim_plugin_task "gist-vim",         "git://github.com/mattn/gist-vim.git"
 # My Plugins
 vim_plugin_task "bundler.vim",      "git://github.com/tpope/vim-bundler.git"
 vim_plugin_task "minibufexpl.vim",  "git://github.com/fholgado/minibufexpl.vim.git"
+vim_plugin_task "session.vim",      "http://peterodding.com/code/vim/downloads/session.zip"
 
 #vim_plugin_task "hammer",           "git://github.com/robgleeson/hammer.vim.git" do
 #  sh "gem install github-markup redcarpet"
